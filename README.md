@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **David Saputra**.\
+
+Saya seorang **Mahasiswa** Program Studi Informatika di Universitas Sultan Ageng Tirtayasa.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/david-saputra-8904a5255/)ku ya.
 
 <!--
 **Davidwae/Davidwae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
